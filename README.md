@@ -113,6 +113,12 @@ To fix this:
 7. Now the Foundry grid and the Azgaar's `.webp` grid should be directly overlapping. Additionally, the journal notes are placed appropriately where, previously, they were also offset slightly.
 8. click the "Save Changes" button in the "Confugure Scene: [map name] Map" (e.g. "Configure Scene: Zendikar Map").
 
+### adjusting hex scale
+1. right click the scene button at in the scene navigation area (at the top of the window by default).
+2. in the dropdown, click 'Configure'
+3. click the "Grid" tab.
+4. In the "Grid Scale" section, change the "Distance" value and "Units" to appropriate units. For example, "Distance" to 240 and "Units" to "mi".
+
 ### journal note location
 The importer imports the journal notes into compendia to avoid performance issues with so many journal notes.
 These compendia are loaded into the "Defaults" section of the Compendia tab automatically. To find them,
