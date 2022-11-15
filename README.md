@@ -1,5 +1,5 @@
-# azgaar-to-foundry-workflow
-instructions and notes for importing azgaar data into foundry
+# generator-to-foundry-workflow
+instructions and notes for importing generator data, such as azgaar and eigengrau, into foundry
 
 # instructions for importing The Roil's Azgaar's map data into Foundry hosted on The Forge
 
