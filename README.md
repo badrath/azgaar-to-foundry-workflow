@@ -1,2 +1,2 @@
-# azgaar-to-foundry-workflow
-instructions and notes for importing azgaar data into foundry
+# generatorr-to-foundry-workflow
+instructions and notes for importing generator data, such as azgaar and eigengraus, into foundry
